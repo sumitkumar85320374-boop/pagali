@@ -48,7 +48,7 @@ except ModuleNotFoundError:
 
     os.system('pip install requests bs4 futures==2 > /dev/null')
 
-    os.system('python ARNOLD.py')
+    os.system('python virat.py')
 
 #####____Auto-Create-Setup____#####
 
@@ -101,7 +101,7 @@ class OLD_CLONER:
         print("\033[1;32m##     ## ##    ##  ##   ### ##     ## ##       ##     ## ")
         print("\033[1;32m##     ## ##     ## ##    ##  #######  ######## ########  ")
         print("\033[1;37m------------------------------------------------")
-        print("\033[1;33m[+]\033[1;35mAUTHOR  : ARNOLD")
+        print("\033[1;33m[+]\033[1;35mAUTHOR  : VIRAT")
         print("\033[1;33m[+]\033[1;35mVERSION : OLD CRACK")
         print("\033[1;33m[+]\033[1;35mVERSION : 0")
         print("\033[1;37m------------------------------------------------")
